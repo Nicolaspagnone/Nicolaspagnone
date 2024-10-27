@@ -4,12 +4,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;FullStack+Developer;Nodejs%20|%20Angular%20|%20TypeScript%20|%20AWS;&center=true&width=380&height=45">
 	</a>
 </p>
-
-<br>
-
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 
 - 🌱 I am a Full Stack developer and Technical Leader
 
