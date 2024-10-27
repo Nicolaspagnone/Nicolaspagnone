@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nicolas Pagnone</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;FullStack+Developer;Nodejs%20|%20Angular%20|%20TypeScript;AWS%20&center=true&width=380&height=45">
 	</a>
 </p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
